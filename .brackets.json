@@ -1,0 +1,25 @@
+{
+    "jscodehints.detectedExclusions": [
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox/__text/checkbox__text.bh.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox/checkbox.bh.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/control-group/control-group.bh.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox/checkbox.deps.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/control-group/control-group.tmpl-specs/10-simple.bemjson.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox/checkbox.tmpl-specs/20-type-button.bemjson.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox/checkbox.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/control-group/control-group.tests/gemini.bemjson.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox-group/checkbox-group.bh.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/control-group/control-group.tests/simple.bemjson.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/control-group/control-group.deps.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/dropdown/dropdown.tmpl-specs/20-default_button.bemjson.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox-group/checkbox-group.deps.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox-group/checkbox-group.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/desktop.bundles/contact/contact.browser.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/control/control.deps.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/control/control.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/control/control.spec.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/libs/bem-components/common.blocks/checkbox-group/checkbox-group.spec.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/grunt/concurrent.js",
+        "C:/xampp/htdocs/bem_yandex/project-stub-1/grunt/clean.js"
+    ]
+}
